@@ -302,7 +302,7 @@ if ($conn == false)
 
 * Berikut adalah tampilan tambah :
 
-![Gambar 2](screenshot/2.png)
+![2](https://github.com/afinurul2/Lab4Web/assets/145902372/1603b6f2-ab72-41c4-bdde-53e49e6e461a)
 
 8. Membuat Routing
 
