@@ -347,7 +347,7 @@ Cara mengakses **httpd.conf** :
 
 11. Kemudian membuat file **.htaccess**, kemudian simpan ke dalam folder **lab4_php_modular**.
 
-![Gambar 4](screenshot/4.png)
+![4](https://github.com/afinurul2/Lab4Web/assets/145902372/f4c5ef32-36de-426c-8018-cdc13dac6513)
 
 Cara aksesnya menjadi :
 * Halaman Home ( http://localhost/lab4_php_modular/home )
