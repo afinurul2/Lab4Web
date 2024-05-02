@@ -343,7 +343,7 @@ Cara mengakses **httpd.conf** :
 * Pilih folder **conf**
 * Pilih **httpd.conf**, kemudian aktifkan LoadModule mod_rewrite dengan cara melakukan un-comment pada baris tersebut, kemudian restart Apache2. Seperti gambar di bawah ini :
 
-![Gambar 3](screenshot/3.png)
+![3](https://github.com/afinurul2/Lab4Web/assets/145902372/4b210e10-d7c7-43ce-a8bf-51e6d4c58e88)
 
 11. Kemudian membuat file **.htaccess**, kemudian simpan ke dalam folder **lab4_php_modular**.
 
