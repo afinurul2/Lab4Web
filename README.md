@@ -352,8 +352,7 @@ Cara mengakses **httpd.conf** :
 Cara aksesnya menjadi :
 * Halaman Home ( http://localhost/lab4_php_modular/home )
 
-![Gambar 5](screenshot/home.png)
-
+![5](https://github.com/afinurul2/Lab4Web/assets/145902372/0c52b780-ac81-470d-9fda-46dc6a9b26ed)
 * Halaman Tambah ( http://localhost/lab4_php_modular/tambah )
 
 ![Gambar 6](screenshot/tambah.png)
