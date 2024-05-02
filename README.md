@@ -355,7 +355,7 @@ Cara aksesnya menjadi :
 ![5](https://github.com/afinurul2/Lab4Web/assets/145902372/0c52b780-ac81-470d-9fda-46dc6a9b26ed)
 * Halaman Tambah ( http://localhost/lab4_php_modular/tambah )
 
-![Gambar 6](screenshot/tambah.png)
+![6](https://github.com/afinurul2/Lab4Web/assets/145902372/6fe33542-2ea6-4594-95f3-06cf9f46d3ce)
 
 
 ## Terimakasih!
