@@ -298,7 +298,7 @@ if ($conn == false)
 
 * Berikut adalah tampilan home :
 
-![Gambar 1](screenshot/1.png)
+![1](https://github.com/afinurul2/Lab4Web/assets/145902372/87e41572-f34c-4361-86d6-c9405a3dbc33)
 
 * Berikut adalah tampilan tambah :
 
